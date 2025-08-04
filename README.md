@@ -9,7 +9,7 @@ This project uses machine learning to classify tweets into **Positive**, **Negat
 
 - `twitter_training.csv` – Training dataset  
 - `twitter_validation.csv` – Validation dataset  
-- `twitter_sentiment_model.pkl` – Trained model  
+- `twitter.csv` – Trained model  
 - `tfidf_vectorizer.pkl` – TF-IDF vectorizer  
 - `README.md` – Project overview (this file)
 
